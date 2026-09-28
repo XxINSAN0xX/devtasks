@@ -2,6 +2,10 @@
 
 > Aplicação web de gerenciamento de tarefas desenvolvida para praticar desenvolvimento Front-End, JavaScript e controle de versão com Git e GitHub.
 
+## 🌐 Demonstração
+
+🚀 **[Acessar o DevTasks online](https://xxinsan0xx.github.io/devtasks/)**
+
 ## 🌐 Sobre o projeto
 
 O **DevTasks** é uma aplicação de gerenciamento de tarefas criada com **HTML, CSS e JavaScript puro**.
